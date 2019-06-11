@@ -1,0 +1,2 @@
+defmodule PubSubChat do
+end
